@@ -1,4 +1,5 @@
 # platzi-exchange
+This little project is the result of basic vuejs course at platzi.com
 
 ## Project setup
 ```
